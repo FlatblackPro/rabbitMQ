@@ -6,5 +6,6 @@ public class GitTestVersion {
         System.out.println("version2");
         System.out.println("version3");
         System.out.println("hot-fix commit1");
+        System.out.println("test for push");
     }
 }
